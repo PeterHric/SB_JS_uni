@@ -1,0 +1,16 @@
+{
+  "name": "sb_js_uni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web_view_app.js",
+  "dependencies": {
+    "react-native-webview": "^12.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node web_view_app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
